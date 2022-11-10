@@ -1,2 +1,5 @@
 .vscode
 **/.vscode
+*.tex
+**/.virtual_documents
+.virtual_documents
