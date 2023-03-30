@@ -36,18 +36,18 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
   - [solution](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/solutions/tp4_solutions.ipynb)
 
 
-- [TP 05](https://nbviewer.org/github/David-Kyrat/12M050-AnaNum-TPs/blob/master/TP05.ipynb)
-  - [solution](https://nbviewer.org/github/David-Kyrat/12M050-AnaNum-TPs/blob/master/solutions/tp5_solutions.ipynb)
+- [TP 05](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/TP05.ipynb)
+  - [solution](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/solutions/tp5_solutions.ipynb)
 
 
-- [TP 06](https://nbviewer.org/github/David-Kyrat/12M060-AnaNum-TPs/blob/master/TP06.ipynb)
-  - [solution](https://nbviewer.org/github/David-Kyrat/12M060-AnaNum-TPs/blob/master/solutions/tp6_solutions.ipynb)
+- [TP 06](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/TP06.ipynb)
+  - [solution](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/solutions/tp6_solutions.ipynb)
 
 
-- [TP 07](https://nbviewer.org/github/David-Kyrat/12M070-AnaNum-TPs/blob/master/TP07.ipynb)
-  - [solution](https://nbviewer.org/github/David-Kyrat/12M070-AnaNum-TPs/blob/master/solutions/tp7_solutions.ipynb)
+- [TP 07](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/TP07.ipynb)
+  - [solution](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/solutions/tp7_solutions.ipynb)
 
 
-- [TP 08](https://nbviewer.org/github/David-Kyrat/12M080-AnaNum-TPs/blob/master/TP08.ipynb)
-  - [solution](https://nbviewer.org/github/David-Kyrat/12M080-AnaNum-TPs/blob/master/solutions/tp8_solutions.ipynb)
+- [TP 08](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/TP08.ipynb)
+  - [solution](https://nbviewer.org/github/David-Kyrat/12M040-AnaNum-TPs/blob/master/solutions/tp8_solutions.ipynb)
 
