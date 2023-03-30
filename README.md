@@ -18,6 +18,11 @@
 * [Labs outline](#labs-outline)
     * [Fall Semester (BA3)](#fall-semester-ba3-1)
     * [Spring Semester (BA3)](#spring-semester-ba3)
+        * [TP 06 : Algorithmes de décomposition de matrice](#tp-06--algorithmes-de-décomposition-de-matrice)
+        * [TP 07 : Décomposition QR](#tp-07--décomposition-qr)
+        * [TP 08 : Equations non-linéaires](#tp-08--equations-non-linéaires)
+        * [TP 09](#tp-09)
+        * [TP 10](#tp-10)
 
 <!-- vim-markdown-toc -->
 
@@ -78,28 +83,61 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 - TP 05
 
 
+<br />
+
+
 #### Spring Semester (BA3)
 
 
-- TP 06 
-    -  lk
+##### TP 06 : Algorithmes de décomposition de matrice
+
+
+1. **Factorisation LU**  
+    1. Sans pivot
+    2. Avec pivot
+    3. Stabilité
+2. **Decomposition de Cholesky (optionnel)**
 
 
 
-
-- TP 07 
-
+##### TP 07 : Décomposition QR
 
 
-- TP 08 
+1. **Algorithmes QR**  
+    1. Gram-Schmidt 
+    2. Gram-Schmidt modifié
+    3. Householder
+2. **Stabilité numérique** 
+3. **Application à la résolution de systèmes linéaires** 
+4. **Algorithme de Givens (optionnel)**
+    1. \-
+
+
+##### TP 08 : Equations non-linéaires
+
+
+1. **Méthode de la bissection** 
+    1. Réflexion
+    2. Implémenation
+    3. Convergence de la méthode
+2. **Méthode des points fixes**
+    1. Implémenation
+    2. Convergence de la méthode
+    3. Application à la résolution de systèmes linéaires
+3. **Méthode de Newton** 
+    1. Méthode de Newton scalaire
+    2. Méthode de Newton vectorielle
+    3. Bassins d'attraction
 
 
 
-- TP 09 
+##### TP 09 
 
 
-
-- TP 10 
-
+1. **.** 
 
 
+##### TP 10 
+
+
+1. **.** 
