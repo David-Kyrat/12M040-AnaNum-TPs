@@ -1,7 +1,7 @@
 # 12M040-AnaNum-TPs
 
 
-### Labs of Numerical Analysis to be handed in on Moodle (Fall semester 2022)
+### Labs of Numerical Analysis to be handed in on Moodle (Fall & Spring semester 2022)
 
 
 ---
