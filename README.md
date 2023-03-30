@@ -110,7 +110,6 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 2. **Stabilité numérique** 
 3. **Application à la résolution de systèmes linéaires** 
 4. **Algorithme de Givens (optionnel)**
-    1. \-
 
 
 ##### TP 08 : Equations non-linéaires
