@@ -1,7 +1,7 @@
 # 12M040-AnaNum-TPs
 
 
-## ToC
+## Table of Contents
 
 
 <!-- vim-markdown-toc GFM -->
