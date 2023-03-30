@@ -82,7 +82,7 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 
 
 - TP 06 
-    -  
+    -  lk
 
 
 
