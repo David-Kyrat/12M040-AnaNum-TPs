@@ -17,11 +17,11 @@
     * [Spring Semester (BA4)](#spring-semester-ba4)
 * [Labs outline](#labs-outline)
     * [Fall Semester (BA3)](#fall-semester-ba3-1)
-    * [TP 01 : Interpolation polynomiale](#tp-01--interpolation-polynomiale)
-    * [TP 02 : Analyse des erreurs](#tp-02--analyse-des-erreurs)
-    * [TP 03 : Erreurs d'arrondi](#tp-03--erreurs-darrondi)
-    * [TP 04 : Intégration numérique](#tp-04--intégration-numérique)
-    * [TP 05 : Systèmes linéaires et stabilité numérique](#tp-05--systèmes-linéaires-et-stabilité-numérique)
+        * [TP 01 : Interpolation polynomiale](#tp-01--interpolation-polynomiale)
+        * [TP 02 : Analyse des erreurs](#tp-02--analyse-des-erreurs)
+        * [TP 03 : Erreurs d'arrondi](#tp-03--erreurs-darrondi)
+        * [TP 04 : Intégration numérique](#tp-04--intégration-numérique)
+        * [TP 05 : Systèmes linéaires et stabilité numérique](#tp-05--systèmes-linéaires-et-stabilité-numérique)
     * [Spring Semester (BA3)](#spring-semester-ba3)
         * [TP 06 : Algorithmes de décomposition de matrice](#tp-06--algorithmes-de-décomposition-de-matrice)
         * [TP 07 : Décomposition QR](#tp-07--décomposition-qr)
@@ -81,7 +81,7 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 #### Fall Semester (BA3)
 
 
-#### TP 01 : Interpolation polynomiale
+##### TP 01 : Interpolation polynomiale
 
 
 1. Polynômes de Lagrange
@@ -90,14 +90,14 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 4. Interpolation de Hermite
 
 
-#### TP 02 : Analyse des erreurs
+##### TP 02 : Analyse des erreurs
 
 
 1. Erreurs d'Interpolation
 2. Introduction à l’analyse des erreurs d’arrondi
 
 
-#### TP 03 : Erreurs d'arrondi
+##### TP 03 : Erreurs d'arrondi
 
 
 1. Erreurs d'arrondi et racines d'un polynôme
@@ -105,7 +105,7 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 3. Méthode de Horner
 
 
-#### TP 04 : Intégration numérique
+##### TP 04 : Intégration numérique
 
 
 1. Formule de Newton-Cotes
@@ -113,7 +113,7 @@ Below you can find the links to the Jupyter notebooks for each serie of the seme
 3. Formules de quadrature composées
 
 
-#### TP 05 : Systèmes linéaires et stabilité numérique
+##### TP 05 : Systèmes linéaires et stabilité numérique
 
 
 1. Utilisation de la factorisation LU pour résoudre des systèmes linéaires
