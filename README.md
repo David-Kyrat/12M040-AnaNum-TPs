@@ -2,7 +2,9 @@
 
 
 ### Labs of Numerical Analysis to be handed in on Moodle (Fall & Spring semester 2022)
----
+
+
+<br />
 
 
 ## Table of Contents
@@ -21,10 +23,7 @@
 
 
 Below you can find the links to the Jupyter notebooks for each serie of the semester.  
-(Or you can just click on the .ipynb file since git supports rendering them)
-
-
-<br/>
+(Or you can just click on the .ipynb file since git supports rendering them.)
 
 
 ### Rendus:
