@@ -1,23 +1,23 @@
 # 12M040-AnaNum-TPs
 
 
+### Labs of Numerical Analysis to be handed in on Moodle (Fall & Spring semester 2022)
+---
+
+
 ## Table of Contents
 
 
 <!-- vim-markdown-toc GFM -->
 
-* [Labs of Numerical Analysis to be handed in on Moodle (Fall & Spring semester 2022)](#labs-of-numerical-analysis-to-be-handed-in-on-moodle-fall--spring-semester-2022)
 * [Rendus:](#rendus)
 
 <!-- vim-markdown-toc -->
 
-<br />
-
-
-### Labs of Numerical Analysis to be handed in on Moodle (Fall & Spring semester 2022)
-
-
 ---
+
+
+<br />
 
 
 Below you can find the links to the Jupyter notebooks for each serie of the semester.  
